@@ -7,13 +7,7 @@ A **Flask web application** that predicts whether a Titanic passenger would surv
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.6-orange?logo=scikit-learn&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
----
-
-## 📸 Screenshots
-
-| Input Form | Prediction Result |
-|:---:|:---:|
-| ![Form](screenshots/form.png) | ![Result](screenshots/result.png) |
+🔗 **Live Demo:** [https://titanic-ml-deployed.onrender.com/](https://titanic-ml-deployed.onrender.com/)
 
 ---
 
